@@ -1,20 +1,20 @@
-# INVERSE-OF-A-MATRIX
-```
-## Aim:
+ INVERSE-OF-A-MATRIX
+
+ Aim:
 To write a python program to find the inverse of a matrix
-## Equipment’s required:
+ Equipment’s required:
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
-## Algorithm:
-### Step1 : 
+Algorithm:
+Step1 : 
 Import the numpy module to the function.
-### Step 2: 
+Step 2: 
 Give the values using np.array().
-### Step 3: 
+Step 3: 
 Name the array as values and print the values.
-### Step 4: 
+Step 4: 
 End the program.
-## Program:
+Program:
 #Program to find the rank of a matrix.
 #Developed by: MS.Jeeva
 #RegisterNumber:21500143
