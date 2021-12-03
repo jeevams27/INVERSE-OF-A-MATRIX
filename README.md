@@ -24,7 +24,7 @@ solution=np.linalg.inv(A)
 print(solution)
 ```
 ## Output:
-![output](./imagerank)
+![output](./imagerank.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
